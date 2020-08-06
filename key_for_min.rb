@@ -16,3 +16,5 @@ def key_for_min_value(name_hash)
   end
   minKey
 end
+
+key_for_min_value({hi: 1, bye: 2})
